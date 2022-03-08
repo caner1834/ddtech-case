@@ -1,0 +1,4 @@
+export const GET_POKEMON_LIST = 'GET_POKEMON_LIST';
+export const GET_POKEMON_DETAIL_BY_NAME = 'GET_POKEMON_DETAIL_BY_NAME';
+export const LOADING = 'LOADING';
+export const ERROR = 'ERROR';
